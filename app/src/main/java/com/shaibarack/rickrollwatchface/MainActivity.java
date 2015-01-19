@@ -1,9 +1,11 @@
-package com.example.adrian.rickrollwatchface;
+package com.shaibarack.rickrollwatchface;
 
 import android.app.Activity;
 import android.os.Bundle;
 import android.support.wearable.view.WatchViewStub;
 import android.widget.TextView;
+
+import com.example.adrian.rickrollwatchface.R;
 
 public class MainActivity extends Activity {
 
